@@ -11,7 +11,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guga_gamerr/)
 
 <hr></hr>
-### Tecnologias que utilizo💻:
+
+### 💻Tecnologias que utilizo:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-tab&layout=compact)
 
