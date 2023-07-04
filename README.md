@@ -14,7 +14,7 @@
 
 ### 💻Tecnologias que utilizo:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-tab&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-tab&layout=compact)
 
 <div style="display: flex;">
  <img style="width: 50px; height: 50px" alt="html5"src="https://logospng.org/download/html-5/logo-html-5-1536.png">
