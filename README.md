@@ -3,7 +3,7 @@
 
 ![Guga-tab stats](https://github-readme-stats.vercel.app/api?username=Guga-tab&show_icons=true&theme=tokyonight)
 
-### Redes e contatos:
+### Redes e Contatos:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](youtube.com/c/gugagamerr)
@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guga_gamerr/)
 
 
-###  Tecnologias que eu utilizo:
+###  💻Tecnologias que utilizo:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-tab&layout=compact)
 
@@ -22,4 +22,4 @@
 </div>
 
 
-Apaixado por tecnologia e games!
+Apaixado por Tecnologia e Games🕹️!
