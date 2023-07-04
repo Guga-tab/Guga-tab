@@ -6,7 +6,7 @@
 ### Redes e Contatos:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavomachado.521@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](youtube.com/c/gugagamerr)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWXObQJFIcTE0AeW89eUp6w)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-machado-8a1220247/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guga_gamerr/)
 
@@ -14,7 +14,7 @@
 
 ### 💻Tecnologias que utilizo:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-tab&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-tab&layout=compact)]
 
 <div style="display: flex;">
  <img style="width: 50px; height: 50px" alt="html5"src="https://logospng.org/download/html-5/logo-html-5-1536.png">
