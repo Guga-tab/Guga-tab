@@ -1,4 +1,4 @@
-## Olá sou Gustavo Machado!🖖
+## Olá sou Gustavo Machado!
 
 
 <a href="https://github.com/Guga-tab">![Guga-tab stats](https://github-readme-stats.vercel.app/api?username=Guga-tab&show_icons=true&theme=tokyonight)</a>
@@ -19,7 +19,11 @@
 <div style="display: flex;">
  <img style="width: 50px; height: 50px" alt="html5"src="https://logospng.org/download/html-5/logo-html-5-1536.png">
  <img style="width: 50px; height: 50px" alt="css3"src="https://logospng.org/download/css-3/logo-css-3-2048.png">
- <img style="width: 50px; height: 50px" alt="css3"src="https://logospng.org/download/javascript/logo-javascript-1024.png">
+ <img style="width: 50px; height: 50px" alt="js"src="https://logospng.org/download/javascript/logo-javascript-1024.png">
+ <img style="width: 48px; height: 45px; padding: 3px 0 0 6px"  alt="wp"src="https://tussendoor.nl/storage/114/Blog---WordPress-logo.webp">
+ <img style="width: 48px; height: 35px; padding: 8px 0 0 6px"  alt="wp"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
+ 
+ 
 </div>
 
 <hr></hr>
