@@ -1,4 +1,4 @@
-## Buenas sou Gustavo Machado!🖖
+## Olá sou Gustavo Machado!🖖
 
 
 <a href="https://github.com/Guga-tab">![Guga-tab stats](https://github-readme-stats.vercel.app/api?username=Guga-tab&show_icons=true&theme=tokyonight)</a>
