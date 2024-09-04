@@ -16,10 +16,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-tab&layout=compact)
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center">
  <img style="width: 50px; height: 50px" alt="html5"src="https://logospng.org/download/html-5/logo-html-5-1536.png">
  <img style="width: 50px; height: 50px" alt="css3"src="https://logospng.org/download/css-3/logo-css-3-2048.png">
  <img style="width: 50px; height: 50px" alt="js"src="https://logospng.org/download/javascript/logo-javascript-1024.png">
+ <img style="width: 46px; height: 44px; margin-left: 4px" alt="php"src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png">
+ <img style="width: 50px; height: 50px;"alt="php"src="https://www.brandlogopng.com/filesmall/logo/php/php-language-logo-hd-image-download-baby-elephant-clipart-5brd.webp">
  
 </div>
 
