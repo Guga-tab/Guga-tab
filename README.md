@@ -1,4 +1,4 @@
-## Olá sou Gustavo Machado!
+## Olá sou Gustavo Machado, apaixado por Tecnologia e Games🕹️!
 
 
 <a href="https://github.com/Guga-tab">![Guga-tab stats](https://github-readme-stats.vercel.app/api?username=Guga-tab&show_icons=true&theme=tokyonight)</a>
@@ -23,6 +23,3 @@
  <img style="width: 50px; height: 50px;"alt="php"src="https://www.brandlogopng.com/filesmall/logo/php/php-language-logo-hd-image-download-baby-elephant-clipart-5brd.webp">
  
 </div>
-
-<hr></hr>
-Apaixado por Tecnologia e Games🕹️!
