@@ -1,4 +1,4 @@
-## Olá sou Gustavo Machado, apaixado por Tecnologia e Games! 🕹️
+## Olá, sou Gustavo Machado, apaixonado por Tecnologia e Games! 🕹️
 
 
 <a href="https://github.com/Guga-tab">![Guga-tab stats](https://github-readme-stats.vercel.app/api?username=Guga-tab&show_icons=true&theme=tokyonight)</a>
