@@ -7,7 +7,7 @@ Técnico em Informática para Internet, formado pela ETEC de Praia Grande (ETEC-
 ### Redes e Contatos:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavomachado.521@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavodos-santos-backend)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodos-santos-backend/)
 
 <hr></hr>
 
