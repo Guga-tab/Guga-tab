@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Técnico em Informática para Internet, formado pela ETEC de Praia Grande (ETEC-PG), sou aficionado por tecnologia e jogos eletrônicos. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande (FATEC-PG). Participei de projetos acadêmicos voltados ao desenvolvimento de jogos, como o Bankrupt, um simulador de banco imobiliário desenvolvido em Java, além de um portal de notícias dedicado à divulgação de jogos indie, criado em PHP e JavaScript.
+Técnico em Informática para Internet, formado pela ETEC de Praia Grande (ETEC-PG), sou aficionado por tecnologia e jogos eletrônicos. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande (FATEC-PG).
 
 ### Redes e Contatos:
 
